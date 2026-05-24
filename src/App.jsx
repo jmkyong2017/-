@@ -39,6 +39,9 @@ function App() {
         <p>확인</p>
         <p>&copy; 2023 My Blog. All rights reserved.</p>
       </div>
+      <div>
+        아 미프 진짜 하기싫다. ㅎㅎ;
+      </div>
     </>
   );
 }
