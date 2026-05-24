@@ -35,6 +35,9 @@ function App() {
       <Header />
       <PostForm onAddPost={handleAddPost} />
       <PostList posts={posts} onDelete={handleDelete} onLike={handleLike} />
+      <div className="footer">
+        <p>&copy; 2023 My Blog. All rights reserved.</p>
+      </div>
     </>
   );
 }
