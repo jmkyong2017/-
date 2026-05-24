@@ -36,7 +36,7 @@ function App() {
       <PostForm onAddPost={handleAddPost} />
       <PostList posts={posts} onDelete={handleDelete} onLike={handleLike} />
       <div className="footer">
-        <p>확인</p>
+        <p>확인 - 피쳐가 수정했어요 </p>
         <p>&copy; 2023 My Blog. All rights reserved.</p>
       </div>
     </>
